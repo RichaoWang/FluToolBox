@@ -1,0 +1,12 @@
+.roperproject
+*.pyproject.user
+*.pyc
+build
+dist
+action-cli
+.vscode
+.idea
+*.rar
+*.zip
+__pycache__
+FluToolBox/resource/flutoolbox_rc.py
