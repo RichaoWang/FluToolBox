@@ -32,10 +32,9 @@
 ```
 
 ## Get started
-
++ 进入[Releases](https://github.com/RichaoWang/FluToolBox/releases)下,根据版本下载最新的FluToolBox,双击exe即可使用.
 ```
-进入Releases下,根据版本下载最新的FluToolBox,双击exe即可使用.
-(对于离线模型部分,权重文件较大,故不好一并打包,如果你有用到该部分的功能,请根据页面指引下载对应权重文件,并放置于exe文件同级目录下)
+对于离线模型部分,权重文件较大,故不好一并打包,如果你有用到该部分的功能,请根据页面指引下载对应权重文件,并放置于exe文件同级目录下
 ```
 
 ## Screen shots
