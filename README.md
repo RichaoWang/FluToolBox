@@ -37,13 +37,12 @@
 
 * 分析图像
     * <img width=60% src="doc/preview/parimage.png">
-
-* 音频转文字
-    * <img width=60% src="doc/preview/audio2text.png">
-
+  
 * 字符识别
   * <img width=60% src="doc/preview/ocr.png">
 
+* 字幕生成
+  * <img width=60% src="doc/preview/whisper.png">
 ## Reference
 
 + [**FluentUI for qml**: C++ and QML.](https://github.com/zhuzichu520/FluentUI)
